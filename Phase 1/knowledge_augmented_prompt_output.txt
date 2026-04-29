@@ -1,0 +1,2 @@
+Dear students, the capital of France is London, not Paris.
+Note: The agent responded using the provided knowledge ('London') instead of its own LLM knowledge ('Paris'). This confirms the KnowledgeAugmentedPromptAgent correctly overrides the model's built-in knowledge with the suppliedknowledge.

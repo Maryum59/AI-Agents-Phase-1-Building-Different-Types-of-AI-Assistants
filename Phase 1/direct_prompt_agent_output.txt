@@ -1,0 +1,2 @@
+The capital of France is Paris.
+Knowledge source: The agent used the general training knowledge built into the GPT-3.5-turbo model. No external data, persona, or custom knowledge was provided — the answer came purely from the LLM's pre-trained knowledge.
